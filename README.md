@@ -9,9 +9,13 @@ Indoor localization systems have been explored to address GPS and cellular posit
 
 ## Results
 
-![Final Accuracy Results by Quadrant](thesis-documentation/pictures/tab4.48.PNG)
+![Final Accuracy Results by Quadrant_1](thesis-documentation/pictures/tab4.45.PNG)
 
-![Final Accuracy Results by Run](thesis-documentation/pictures/tab4.49.PNG)
+![Final Accuracy Results by Run_1](thesis-documentation/pictures/tab4.46.PNG)
+
+![Final Accuracy Results by Quadrant_2](thesis-documentation/pictures/tab4.48.PNG)
+
+![Final Accuracy Results by Run_2](thesis-documentation/pictures/tab4.49.PNG)
 
 ## Main Findings
 
