@@ -13,6 +13,13 @@ Indoor localization systems have been explored to address GPS and cellular posit
 
 ![Final Accuracy Results by Run](thesis-documentation/pictures/tab4.49.PNG)
 
+## Main Findings
+
+- Human presence can influence BLE RSSI measurements, providing a basis for passive, zone-based localization.
+- RSSI behavior varied across links, with occlusion-sensitive links providing useful indications of human presence and occlusion-free links serving as supporting links for zone prediction.
+- A threshold-based heuristic using data fusion and a running average filter achieved a peak overall accuracy of 56.86% for discrete quadrant occupancy and 45.24% for quadrant and center occupancy.
+- The system demonstrated general movement indications but remained susceptible to RSSI variability and false predictions under unoccupancy scenarios.
+
 ## Documents
 
 - [Thesis](thesis-documentation/JAZTIN_TABUNDA_THESIS_FINAL.pdf)
