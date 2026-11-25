@@ -1,0 +1,18 @@
+timestamp,relative_time,prediction,truth,run,primary_receiver_name,primary_transmitter_name,pair
+2026-10-10 12:57:06,89,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:57:18,102,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:57:39,122,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:57:41,125,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:57:59,143,Q4,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-10-10 12:58:14,158,Q4,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-10-10 12:58:34,178,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:58:49,193,Q3,,,Anchor_3,Anchor_2,Anchor_2-Anchor_3
+2026-10-10 12:59:05,209,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:59:14,218,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 12:59:28,231,Q4,,,Anchor_1,Anchor_4,Anchor_1-Anchor_4
+2026-10-10 12:59:30,234,Q3,,,Anchor_3,Anchor_2,Anchor_2-Anchor_3
+2026-10-10 12:59:40,244,Q1,,,Anchor_3,Anchor_2,Anchor_2-Anchor_3
+2026-10-10 12:59:58,262,Q4,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-10-10 13:00:11,275,Q3,,,Anchor_3,Anchor_2,Anchor_2-Anchor_3
+2026-10-10 13:00:25,289,Q3,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-10-10 13:00:42,305,No Presence,,,,,-

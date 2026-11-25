@@ -1,0 +1,13 @@
+timestamp,relative_time,prediction,truth,run,primary_receiver_name,primary_transmitter_name,pair
+2026-08-13 13:17:15,67,Q4,,,Anchor_1,Anchor_4,Anchor_1-Anchor_4
+2026-08-13 13:17:22,74,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-08-13 13:17:25,77,Q2,,,Anchor_1,Anchor_4,Anchor_1-Anchor_4
+2026-08-13 13:17:30,83,Q4,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-08-13 13:17:33,85,No Presence,,,,,-
+2026-08-13 13:17:40,93,Q1,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
+2026-08-13 13:17:43,96,Q4,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-08-13 13:17:49,101,No Presence,,,,,-
+2026-08-13 13:17:53,105,Q2,,,Anchor_4,Anchor_1,Anchor_1-Anchor_4
+2026-08-13 13:17:58,110,No Presence,,,,,-
+2026-08-13 13:18:01,114,Q2,,,Anchor_1,Anchor_4,Anchor_1-Anchor_4
+2026-08-13 13:18:04,117,Q3,,,Anchor_2,Anchor_3,Anchor_2-Anchor_3
